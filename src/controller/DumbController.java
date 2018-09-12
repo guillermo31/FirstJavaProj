@@ -66,7 +66,7 @@ public class DumbController
 		
 //		anotherScanner.close();
 	}
-
+//this is a formal parameter, and uses try catch to check if the input is valid
 	public boolean validInt(String example)
 	{
 		boolean isValid = false;
